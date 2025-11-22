@@ -1,7 +1,7 @@
 {
     "name": "alphadogs",
     "version": "0.1.0",
-    "proxy": "https://alphadogsgame.fun",
+    "proxy": "https://buyclient.vercel.app/",
     "private": true,
     "dependencies": {
         "@firebase/firestore": "^4.6.3",
@@ -13,7 +13,6 @@
         "axios": "^1.7.7",
         "buffer": "^6.0.3",
         "cors": "^2.8.5",
-        "cross-env": "^7.0.3",
         "dotenv": "^16.4.5",
         "env": "^0.0.2",
         "express": "^4.19.2",
@@ -59,5 +58,8 @@
             "last 1 firefox version",
             "last 1 safari version"
         ]
+    },
+    "devDependencies": {
+        "cross-env": "^10.1.0"
     }
 }

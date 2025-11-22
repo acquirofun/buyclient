@@ -10,7 +10,7 @@ export const images = {
   };
 
   export const urls = {
-    appUrl: "https://alphadogsgame.fun",
+    appUrl: "https://buyclient.vercel.app/",
     botUsername: "alphadogsbot",
     botChannel: "alphadogsofficial"
 
